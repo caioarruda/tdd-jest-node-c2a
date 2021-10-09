@@ -1,4 +1,4 @@
-# tdd-jest-node-c2a
+# Ensino Node Jest TDD para Internship C2A
 
 ## Preparar
 ```
