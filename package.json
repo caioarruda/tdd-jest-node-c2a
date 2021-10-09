@@ -1,0 +1,22 @@
+{
+  "name": "tdd-jest-node-c2a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caioarruda/tdd-jest-node-c2a.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caioarruda/tdd-jest-node-c2a/issues"
+  },
+  "homepage": "https://github.com/caioarruda/tdd-jest-node-c2a#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
